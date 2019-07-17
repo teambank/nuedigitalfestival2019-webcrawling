@@ -1,0 +1,43 @@
+# json files
+*.json
+
+# xml and iml files
+*.xml
+*.iml
+
+# log files
+*.log
+
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+
+# DotEnv configuration
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+debug.log
+
+*.egg-info
+
+.pytest*
+
+# data
+data/
+
+# statekeeping
+crawls/
+
+# pickle files
+*.pkl
